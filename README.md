@@ -2,7 +2,7 @@
 ---
 
 * This is my second completed Problem from the many PS's of CodeChef.com .
-* Actually this is the thirs but the second one I have not added it in the repo. here .
+* Actually this is the third but the second one I have not added it in the repo. here .
 * This acctually a very easy question but good for beginner to get a feel of the recursive function .
 * This has around 300 submissions .
 * And yes,Even I am undergoing a learning procedure .
