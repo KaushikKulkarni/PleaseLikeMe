@@ -3,7 +3,11 @@
 
 * This is my second completed Problem from the many PS's of CodeChef.com .
 * Actually this is the third but the second one I have not added it in the repo. here .
+<<<<<<< HEAD
 * This actually a very easy question but good for a beginner to get a feel of the recursive function .
+=======
+* This acctually a very easy question but good for beginner to get a feel of the recursive function .
+>>>>>>> origin/master
 * This has around 300 submissions .
 * And yes,Even I am undergoing a learning procedure .
 * So,suggestions are most welcome .
